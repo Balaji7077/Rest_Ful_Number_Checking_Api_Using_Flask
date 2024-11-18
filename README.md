@@ -107,22 +107,22 @@ For Emirp Number (e.g., 17):
 
 # How to Run the Project
 
-# 1.Clone the repository:
+### 1.Clone the repository:
 
 git clone https://github.com/Balaji7077/Rest_Full_Number_Checking_Api_Using_Flask.git
 
-# 2.Navigate to the project directory:
+### 2.Navigate to the project directory:
 
 cd Rest_Full_Number_Checking_Api_Using_Flask
 
-# 3.Install the required dependencies:
+### 3.Install the required dependencies:
 
 pip install flask
 
-# 4.Run the Flask application:
+### 4.Run the Flask application:
 
 python main.py
 
-# 5.Access the API at:
+### 5.Access the API at:
 
 http://127.0.0.1:5000
