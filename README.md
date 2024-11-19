@@ -109,11 +109,11 @@ For Emirp Number (e.g., 17):
 
 ### 1.Clone the repository:
 
-git clone https://github.com/Balaji7077/Rest_Full_Number_Checking_Api_Using_Flask.git
+git clone https://github.com/Balaji7077/Rest_Ful_Number_Checking_Api_Using_Flask.git
 
 ### 2.Navigate to the project directory:
 
-cd Rest_Full_Number_Checking_Api_Using_Flask
+cd Rest_Ful_Number_Checking_Api_Using_Flask
 
 ### 3.Install the required dependencies:
 
